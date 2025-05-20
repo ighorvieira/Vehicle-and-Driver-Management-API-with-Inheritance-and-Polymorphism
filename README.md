@@ -24,3 +24,16 @@ A arquitetura em camadas é um padrão amplamente utilizado no desenvolvimento d
 
 ## 🎲Estrutura do Banco de Dados
 O banco de dados utilizado é o H2, configurado para rodar em memória. As tabelas são criadas automaticamente com base nas entidades mapeadas.
+
+## 📝 Documentação com os endpoints
+- **Geral**
+![image](https://github.com/user-attachments/assets/7e93b3bb-9640-4f36-8f29-d2e0c1e28fa0)
+
+- **Motorista**
+![image](https://github.com/user-attachments/assets/569654df-4228-4bc0-88c7-e8abf6eaf3f1)
+
+- **Corrida Carro**
+![image](https://github.com/user-attachments/assets/add3a7d8-28fe-4ec9-8588-f65d9ee029eb)
+
+- **Corrida Ônibus**
+![image](https://github.com/user-attachments/assets/10d4f058-1560-4e5c-80d4-eabc334b59be)
