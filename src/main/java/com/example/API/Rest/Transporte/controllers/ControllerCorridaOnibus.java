@@ -1,4 +1,4 @@
-package com.example.API.Rest.Transporte.Controller;
+package com.example.API.Rest.Transporte.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.API.Rest.Transporte.DTOs.corridasDTOs.DTOIniciarNovaCorrida;
-import com.example.API.Rest.Transporte.DTOs.corridasDTOs.DTORetornaCorrida;
-import com.example.API.Rest.Transporte.Service.ServiceCorridaOnibus;
+import com.example.API.Rest.Transporte.dtos.corridasdtos.DTOIniciarNovaCorrida;
+import com.example.API.Rest.Transporte.dtos.corridasdtos.DTORetornaCorrida;
+import com.example.API.Rest.Transporte.service.ServiceCorridaOnibus;
 
 import io.swagger.v3.oas.annotations.Operation;
 

@@ -1,4 +1,4 @@
-package com.example.API.Rest.Transporte.DTOs.corridasDTOs;
+package com.example.API.Rest.Transporte.dtos.corridasdtos;
 
 import jakarta.persistence.Embeddable;
 import lombok.Getter;

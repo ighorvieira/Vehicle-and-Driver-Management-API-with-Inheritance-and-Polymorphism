@@ -1,6 +1,6 @@
-package com.example.API.Rest.Transporte.dtos.corridasDTOs;
+package com.example.API.Rest.Transporte.dtos.corridasdtos;
 
-import com.example.API.Rest.Transporte.dtos.motoristasDTOs.Carro;
+import com.example.API.Rest.Transporte.dtos.motoristasdtos.Carro;
 
 import lombok.Getter;
 import lombok.Setter;

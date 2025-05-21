@@ -1,4 +1,4 @@
-package com.example.API.Rest.Transporte.DTOs.motoristasDTOs;
+package com.example.API.Rest.Transporte.dtos.motoristasdtos;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,6 +1,6 @@
 package com.example.API.Rest.Transporte.models.corridas;
 
-import com.example.API.Rest.Transporte.dtos.corridasDTOs.Data;
+import com.example.API.Rest.Transporte.dtos.corridasdtos.Data;
 import com.example.API.Rest.Transporte.models.peoples.Motorista;
 
 import jakarta.persistence.GeneratedValue;

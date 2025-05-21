@@ -1,4 +1,4 @@
-package com.example.API.Rest.Transporte.Service;
+package com.example.API.Rest.Transporte.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -6,8 +6,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.example.API.Rest.Transporte.dtos.corridasDTOs.DTOIniciarNovaCorrida;
-import com.example.API.Rest.Transporte.dtos.corridasDTOs.DTORetornaCorrida;
+import com.example.API.Rest.Transporte.dtos.corridasdtos.DTOIniciarNovaCorrida;
+import com.example.API.Rest.Transporte.dtos.corridasdtos.DTORetornaCorrida;
 import com.example.API.Rest.Transporte.models.corridas.CorridasCarros;
 import com.example.API.Rest.Transporte.models.peoples.Motorista;
 import com.example.API.Rest.Transporte.repository.RepositoryCorridaCarro;

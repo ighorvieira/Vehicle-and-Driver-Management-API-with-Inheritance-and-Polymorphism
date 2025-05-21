@@ -1,4 +1,4 @@
-package com.example.API.Rest.Transporte.DTOs.corridasDTOs;
+package com.example.API.Rest.Transporte.dtos.corridasdtos;
 
 import lombok.Getter;
 import lombok.Setter;

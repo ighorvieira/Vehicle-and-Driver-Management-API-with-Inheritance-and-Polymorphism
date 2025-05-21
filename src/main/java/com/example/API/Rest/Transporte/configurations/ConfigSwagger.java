@@ -1,4 +1,4 @@
-package com.example.API.Rest.Transporte.Config;
+package com.example.API.Rest.Transporte.configurations;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

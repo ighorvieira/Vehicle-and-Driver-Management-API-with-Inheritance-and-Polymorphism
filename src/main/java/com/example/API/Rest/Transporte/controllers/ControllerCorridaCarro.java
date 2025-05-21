@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.API.Rest.Transporte.Service.ServiceCorridaCarro;
-import com.example.API.Rest.Transporte.dtos.corridasDTOs.DTOIniciarNovaCorrida;
-import com.example.API.Rest.Transporte.dtos.corridasDTOs.DTORetornaCorrida;
+import com.example.API.Rest.Transporte.dtos.corridasdtos.DTOIniciarNovaCorrida;
+import com.example.API.Rest.Transporte.dtos.corridasdtos.DTORetornaCorrida;
+import com.example.API.Rest.Transporte.service.ServiceCorridaCarro;
 
 import io.swagger.v3.oas.annotations.Operation;
 

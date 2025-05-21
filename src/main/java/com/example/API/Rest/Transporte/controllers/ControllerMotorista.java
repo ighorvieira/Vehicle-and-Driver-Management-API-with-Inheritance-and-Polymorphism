@@ -1,4 +1,4 @@
-package com.example.API.Rest.Transporte.Controller;
+package com.example.API.Rest.Transporte.controllers;
 
 import java.util.List;
 
@@ -13,11 +13,11 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.API.Rest.Transporte.DTOs.motoristasDTOs.DTOAtualizarMotorista;
-import com.example.API.Rest.Transporte.DTOs.motoristasDTOs.DTOCadastrarMotoristas;
-import com.example.API.Rest.Transporte.DTOs.motoristasDTOs.DTOProcuraMotoristaEmailESenha;
-import com.example.API.Rest.Transporte.DTOs.motoristasDTOs.DTOReturnMotorista;
-import com.example.API.Rest.Transporte.Service.SeriviceMotorista;
+import com.example.API.Rest.Transporte.dtos.motoristasdtos.DTOAtualizarMotorista;
+import com.example.API.Rest.Transporte.dtos.motoristasdtos.DTOCadastrarMotoristas;
+import com.example.API.Rest.Transporte.dtos.motoristasdtos.DTOProcuraMotoristaEmailESenha;
+import com.example.API.Rest.Transporte.dtos.motoristasdtos.DTOReturnMotorista;
+import com.example.API.Rest.Transporte.service.SeriviceMotorista;
 
 import io.swagger.v3.oas.annotations.Operation;
 
