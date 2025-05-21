@@ -6,8 +6,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.example.API.Rest.Transporte.DTOs.corridasDTOs.DTOIniciarNovaCorrida;
-import com.example.API.Rest.Transporte.DTOs.corridasDTOs.DTORetornaCorrida;
+import com.example.API.Rest.Transporte.dtos.corridasDTOs.DTOIniciarNovaCorrida;
+import com.example.API.Rest.Transporte.dtos.corridasDTOs.DTORetornaCorrida;
 import com.example.API.Rest.Transporte.models.corridas.CorridaOnibus;
 import com.example.API.Rest.Transporte.models.peoples.Motorista;
 import com.example.API.Rest.Transporte.repository.RepositoryCorridaOnibus;

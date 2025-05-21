@@ -9,10 +9,10 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.example.API.Rest.Transporte.DTOs.motoristasDTOs.DTOAtualizarMotorista;
-import com.example.API.Rest.Transporte.DTOs.motoristasDTOs.DTOCadastrarMotoristas;
-import com.example.API.Rest.Transporte.DTOs.motoristasDTOs.DTOProcuraMotoristaEmailESenha;
-import com.example.API.Rest.Transporte.DTOs.motoristasDTOs.DTOReturnMotorista;
+import com.example.API.Rest.Transporte.dtos.motoristasDTOs.DTOAtualizarMotorista;
+import com.example.API.Rest.Transporte.dtos.motoristasDTOs.DTOCadastrarMotoristas;
+import com.example.API.Rest.Transporte.dtos.motoristasDTOs.DTOProcuraMotoristaEmailESenha;
+import com.example.API.Rest.Transporte.dtos.motoristasDTOs.DTOReturnMotorista;
 import com.example.API.Rest.Transporte.models.peoples.Motorista;
 import com.example.API.Rest.Transporte.repository.RepositoryMotorista;
 

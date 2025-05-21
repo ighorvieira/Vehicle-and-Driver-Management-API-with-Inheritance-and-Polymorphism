@@ -1,6 +1,6 @@
 package com.example.API.Rest.Transporte.models.peoples;
 
-import com.example.API.Rest.Transporte.DTOs.motoristasDTOs.Carro;
+import com.example.API.Rest.Transporte.dtos.motoristasDTOs.Carro;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
